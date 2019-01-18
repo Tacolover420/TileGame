@@ -1,3 +1,6 @@
+Taco fork of andersevenrud TileGame. This has been updated to work on https://codesandbox.io Codesandbox.
+We will be using in our open source dev community for educational demos. If you would like to join us https://discord.gg/V6jKftU Cryptoinfo Discord.
+
 Top-down 2D tile based game engnine with infinite procedural chunk generation using only browser JavaScript.
 
 **This is just an experiment and not complete in any way**
